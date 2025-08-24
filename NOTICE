@@ -1,0 +1,11 @@
+byte-garden
+
+Copyright (c) 2025 Chandrahas
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This product includes code originating from a third-party project licensed under MIT:
+  - Portions © 2024 WhitePaper233 — see LICENSE-MIT for the full MIT license text.
+
+Per Apache-2.0 §4(d), retain this NOTICE in redistributions (source or binary).
+If you modify files, please mark your changes in those files.
